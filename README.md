@@ -159,7 +159,7 @@ git clone --recursive https://github.com/uglide/RedisDesktopManager.git
 
 ​    尤其看依赖项目的结构是否配置正确
 
-![](images\rdm_project.jpg)
+![](https://github.com/fansys/redis-desktop-manager/blob/master/images/rdm_project.jpg)
 
 
 
@@ -187,7 +187,7 @@ git clone --recursive https://github.com/uglide/RedisDesktopManager.git
 
 - 如果需要编译32位版本rdm，则选择Deskto Qt 5.13.2 MSVC2017 32bit
 
-![](images\rdm_release.jpg)
+![](https://github.com/fansys/redis-desktop-manager/blob/master/images/rdm_release.jpg)
 
 
 
@@ -197,7 +197,7 @@ git clone --recursive https://github.com/uglide/RedisDesktopManager.git
 
 按照以下顺序执行：更新翻译(lupdate) -> 发布翻译(lrelease)，如果只用英文界面的话这步可忽略
 
-![](images\rdm_language.jpg)
+![](https://github.com/fansys/redis-desktop-manager/blob/master/images/rdm_language.jpg)
 
 
 
@@ -205,7 +205,7 @@ git clone --recursive https://github.com/uglide/RedisDesktopManager.git
 
 ​    点Qt界面左下角图标是锤子的按钮进行构建, 右下角就会弹出构建的进度, 显示绿色为构建完成
 
-![](images\rdm_build.jpg)
+![](https://github.com/fansys/redis-desktop-manager/blob/master/images/rdm_build.jpg)
 
 
 
@@ -230,7 +230,7 @@ del /Q  .\imageformats\qwebp.dll
 
 ​    至此双击打开 `rdm.exe` 程序应该是可以看到界面的了
 
-![](images\rdm.jpg)
+![](https://github.com/fansys/redis-desktop-manager/blob/master/images/rdm.jpg)
 
 ### 12. 添加 Python 运行环境
 
