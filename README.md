@@ -1,5 +1,7 @@
 # Redis Desktop Manager 编译
 
+- [更多 Redis Desktpo Manager 版本](https://github.com/fansys/rdm-builder)
+
 如果电脑运行Redis Desktop Manager时提示: 由于找不到MSVCP140.dll,无法继续执行代码。
 
 那么先安装所需环境(VC_redist 2015):
